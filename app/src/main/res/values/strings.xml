@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebService_Retrofit</string>
+    <string name="txtBTN">probar conexion webservice</string>
+</resources>
